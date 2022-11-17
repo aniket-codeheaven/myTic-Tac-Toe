@@ -64,13 +64,13 @@
 } */
 
 .cross{
-    background-image: url(img/x.png);
+    background-image: url(../img/x.png);
     background-repeat: no-repeat;
     overflow: hidden;
 }
 
 .ooo{
-    background-image: url(img/-o.png);
+    background-image: url(../img/-o.png);
     background-repeat: no-repeat;
     overflow: hidden;
 
