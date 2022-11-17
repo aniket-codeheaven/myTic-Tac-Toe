@@ -217,8 +217,8 @@ $(document).ready(function () {
             $('.ttt-grid').css("display","none");
             $('.postmatch').css({"display":"block", "display":"flex"});
             $('.postmatch').children('h1').html("MATCH IS TIED")
-            // $('#body-color').css("background-color" , "rgb(255, 255, 147)");
-            $('#body-color').css("background-color" , "rgb(255, 255, 0)");
+            $('#body-color').css("background-color" , "rgb(219, 112, 147)");
+            // $('#body-color').css("background-color" , "rgb(255, 255, 0)");
 
         }
     }
